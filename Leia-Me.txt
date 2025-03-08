@@ -1,0 +1,5 @@
+LEIA-ME
+
+Necessário Instalar Python 3.10 e a Biblioteca Pygame (pip install pygame no CMD)
+
+Sistemas de Login RA123456 e Senha 123, basta clicar no "Enter" que será direcionado para a próxima tela;
